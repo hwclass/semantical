@@ -1,0 +1,27 @@
+{
+  "name": "semantical",
+  "version": "1.0.0",
+  "description": "Test your HTML markup if it is semantic or not.",
+  "main": "semantical.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwclass/semantical.git"
+  },
+  "keywords": [
+    "html",
+    "markup",
+    "semantic",
+    "node.js",
+    "crawl",
+    "crawler"
+  ],
+  "author": "hwclass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwclass/semantical/issues"
+  },
+  "homepage": "https://github.com/hwclass/semantical#readme"
+}
